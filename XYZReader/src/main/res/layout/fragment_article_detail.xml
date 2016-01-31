@@ -9,7 +9,7 @@
     <android.support.design.widget.AppBarLayout
         android:id="@+id/toolbar_container"
         android:layout_width="match_parent"
-        android:layout_height="480dp"
+        android:layout_height="@dimen/app_barsize"
         android:background="?colorPrimary">
 
         <android.support.design.widget.CollapsingToolbarLayout
@@ -25,7 +25,7 @@
             <ImageView
                 android:id="@+id/photo"
                 android:layout_width="match_parent"
-                android:layout_height="350dp"
+                android:layout_height="@dimen/bigimage_size"
                 app:layout_collapseMode="parallax"
                 android:src="@drawable/photo_background_protection"
                 android:scaleType="centerCrop"
@@ -34,7 +34,7 @@
             <LinearLayout
                 android:id="@+id/meta_bar"
                 android:layout_width="match_parent"
-                android:layout_height="130dp"
+                android:layout_height="@dimen/maintitle_size"
                 android:background="#333"
                 app:layout_collapseMode="parallax"
                 android:layout_gravity="bottom"
@@ -50,6 +50,8 @@
                     style="?android:attr/textAppearanceLarge"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:maxLines="2"
+                    android:ellipsize="end"
                     android:paddingBottom="@dimen/detail_metabar_title_bottom_padding"
                     android:fontFamily="sans-serif-condensed"
                     android:textColor="#fff"
@@ -60,7 +62,7 @@
                 <TextView
                     android:id="@+id/article_byline"
                     style="?android:attr/textAppearanceSmall"
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:textColor="#8fff" />
             </LinearLayout>

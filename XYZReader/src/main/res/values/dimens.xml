@@ -14,5 +14,9 @@
     <!-- Article font size-->
     <dimen name="article_title">14sp</dimen>
     <dimen name="article_sub_title">11sp</dimen>
+    <dimen name="main_app_bar_height">142dp</dimen>
+    <dimen name="app_barsize">480dp</dimen>
+    <dimen name="bigimage_size">350dp</dimen>
+    <dimen name="maintitle_size">130dp</dimen>
 
 </resources>
