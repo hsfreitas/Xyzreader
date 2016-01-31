@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hamilton.freitas/Udacity/xyzreadernew/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreadernew/XYZReader/build/intermediates/pre-dexed/debug/classes-c09645fd79b0ebd86dac769e1070506d1cd72ec8.jar" />
+    </item>
+    <item
+        jar="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-88a38fb1111f4eb7fe4f9cb56b4c1f5de941a405.jar" />
+    </item>
+    <item
+        jar="/Users/hamilton.freitas/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-0b03437347f35d1e8aba68e9093c2ecf0248ed67.jar" />
+    </item>
+    <item
+        jar="/Users/hamilton.freitas/Udacity/xyzreadernew/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreadernew/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-b4afb34e3eaee71189705bcd74d1b21dcd824d21.jar" />
+    </item>
+    <item
+        jar="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-20a7503657d726b24c46b9d66a1974cf752dffe3.jar" />
+    </item>
+    <item
+        jar="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-31d4a333d30c61dd211f9c11295b0e5d4ee4b3cc.jar" />
+    </item>
+    <item
+        jar="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-d445a3c458a5972b5f1b8b8155b34fb28b77450f.jar" />
+    </item>
+    <item
+        jar="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-ec35beadb99494a483126314c731af338dc54d7c.jar" />
+    </item>
+    <item
+        jar="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-c83c047cc4134144ed4933de5d2376e75c626345.jar" />
+    </item>
+    <item
+        jar="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a978650837318cf056bf3383ff02fe7a3b891f20">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-8c803f1c0145cb8ce3ee7374258ebdc8802ccc46.jar" />
+    </item>
+    <item
+        jar="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-d445a3c458a5972b5f1b8b8155b34fb28b77450f.jar" />
+    </item>
+    <item
+        jar="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-24c13d6c6c78fe73ea01275a4a50c7e7381310d2.jar" />
+    </item>
+    <item
+        jar="/Users/hamilton.freitas/Udacity/xyzreadernew/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreadernew/XYZReader/build/intermediates/pre-dexed/debug/classes-64af04b89bbd5569090243dea9c64eca693cf12f.jar" />
+    </item>
+    <item
+        jar="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-31d4a333d30c61dd211f9c11295b0e5d4ee4b3cc.jar" />
+    </item>
+    <item
+        jar="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-e64098068b58af2f23a251148f4091b682558ec4.jar" />
+    </item>
+    <item
+        jar="/Users/hamilton.freitas/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-0b03437347f35d1e8aba68e9093c2ecf0248ed67.jar" />
+    </item>
+    <item
+        jar="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-e64098068b58af2f23a251148f4091b682558ec4.jar" />
+    </item>
+    <item
+        jar="/Users/hamilton.freitas/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/1.1.0/d51280dbb4e8539f6c3f369d516edc26f9d89d31/okhttp-1.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d51280dbb4e8539f6c3f369d516edc26f9d89d31">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-1.1.0-9d8094fb56d2fa414b3e95a9e4d3789e294370a5.jar" />
+    </item>
+    <item
+        jar="/Users/hamilton.freitas/Udacity/xyzreadernew/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a978650837318cf056bf3383ff02fe7a3b891f20">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreadernew/XYZReader/build/intermediates/pre-dexed/debug/classes-15be309f595896f76143329659ef18ff53699e3b.jar" />
+    </item>
+    <item
+        jar="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-24c13d6c6c78fe73ea01275a4a50c7e7381310d2.jar" />
+    </item>
+    <item
+        jar="/Users/hamilton.freitas/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/1.1.0/d51280dbb4e8539f6c3f369d516edc26f9d89d31/okhttp-1.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d51280dbb4e8539f6c3f369d516edc26f9d89d31">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-1.1.0-9d8094fb56d2fa414b3e95a9e4d3789e294370a5.jar" />
+    </item>
+    <item
+        jar="/Users/hamilton.freitas/Udacity/xyzreadernew/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreadernew/XYZReader/build/intermediates/pre-dexed/debug/classes-cc1d5950cf660004540857dc979531add54ceaf1.jar" />
+    </item>
+    <item
+        jar="/Users/hamilton.freitas/Udacity/xyzreadernew/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreadernew/XYZReader/build/intermediates/pre-dexed/debug/classes-364aa5dfd11af1678d64eb97a9af876922321e18.jar" />
+    </item>
+    <item
+        jar="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley-bbf919c0ec899de7b12e90a36d7c69f950acd1fb.jar" />
+    </item>
+    <item
+        jar="/Users/hamilton.freitas/Udacity/xyzreadernew/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreadernew/XYZReader/build/intermediates/pre-dexed/debug/classes-d81314d3dc623171f6341031538196a21531c854.jar" />
+    </item>
+    <item
+        jar="/Users/hamilton.freitas/Udacity/xyzreadernew/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreadernew/XYZReader/build/intermediates/pre-dexed/debug/classes-c99ac323aec39b3736422511e965fa52c93636a7.jar" />
+    </item>
+    <item
+        jar="/Users/hamilton.freitas/Udacity/xyzreadernew/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreadernew/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-5a5a25b172a033e8936d49e7fb6bc8e2e76b8adb.jar" />
+    </item>
+    <item
+        jar="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-c83c047cc4134144ed4933de5d2376e75c626345.jar" />
+    </item>
+    <item
+        jar="/Users/hamilton.freitas/Udacity/xyzreadernew/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/hamilton.freitas/Udacity/xyzreadernew/XYZReader/build/intermediates/pre-dexed/debug/volley-0c13549c51b674e7077c0812527c4aa87b2adbf4.jar" />
+    </item>
+
+</items>
